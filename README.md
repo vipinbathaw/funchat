@@ -13,3 +13,7 @@ A simple and light weight chatting web app with lots of gifs.
 ![login page](https://github.com/vipinbathaw/funchat/blob/master/screenshots/menu-page.PNG?raw=true)
 
 ![login page](https://github.com/vipinbathaw/funchat/blob/master/screenshots/message-page.PNG?raw=true)
+
+![login page](https://github.com/vipinbathaw/funchat/blob/master/screenshots/emoticon-page.png?raw=true)
+
+![login page](https://github.com/vipinbathaw/funchat/blob/master/screenshots/emoticon-2-page.png?raw=true)
