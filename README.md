@@ -8,12 +8,17 @@ A simple and light weight chatting web app with lots of gifs.
 
 ## Screenshots
 
-![login page](https://github.com/vipinbathaw/funchat/blob/master/screenshots/login-page.PNG?raw=true)
+![login page](https://github.com/vipinbathaw/funchat/blob/master/screenshots/login-page.png?raw=true)
 
-![login page](https://github.com/vipinbathaw/funchat/blob/master/screenshots/menu-page.PNG?raw=true)
+![menu page](https://github.com/vipinbathaw/funchat/blob/master/screenshots/menu-page.png?raw=true)
 
-![login page](https://github.com/vipinbathaw/funchat/blob/master/screenshots/message-page.PNG?raw=true)
+![message page](https://github.com/vipinbathaw/funchat/blob/master/screenshots/message-page.png?raw=true)
 
-![login page](https://github.com/vipinbathaw/funchat/blob/master/screenshots/emoticon-page.png?raw=true)
+![emoticon page](https://github.com/vipinbathaw/funchat/blob/master/screenshots/emoticon-page.png?raw=true)
 
-![login page](https://github.com/vipinbathaw/funchat/blob/master/screenshots/emoticon-2-page.png?raw=true)
+![emoticon page 2](https://github.com/vipinbathaw/funchat/blob/master/screenshots/emoticon-2-page.png?raw=true)
+
+
+## License
+
+**[MIT License](https://github.com/vipinbathaw/funchat/blob/master/LICENSE)**
